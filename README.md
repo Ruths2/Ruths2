@@ -36,7 +36,7 @@ _________________________________________________________
                                                             
          
         
-  *<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">     *<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+  *<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">     *<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 
 
                                                           

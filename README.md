@@ -25,12 +25,6 @@ _________________________________________________________
 - 💬 Sou criativa, determinada e entusiasta.
 - 🌱 Estudo no momento: Kotlin💚 e Python🧡
 - 🚀 Habilidades futuras: Java e JavaScript, Php e Html/CSS
-- 🚀 Habilidades futuras: Java e JavaScript, Php e Html/CSS
-
-
-- 🌱 Estudo no momento: Kotlin💚 e Python🧡
-- 🚀 Habilidades futuras: Java e JavaScript, Php e Html/CSS
-- 💬 Sou criativa, determinada e entusiasta.
 
 ===================================================================================
                                                    

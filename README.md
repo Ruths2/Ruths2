@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🚀 Habilidades futuras: Java e JavaScript, Php e Html/CSS
 - 💬 Sou criativa, determinada e entusiasta.
 
-==================================================
+===================================================
                                                    
     #######      #######  ###          ###    
     ##     ##    ##         ##       ##       ####   ####
@@ -46,4 +46,4 @@ Here are some ideas to get you started:
                                                             
                                                                                                                                                                                                                      
                                                     
-=================================================
+===================================================

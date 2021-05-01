@@ -21,9 +21,13 @@ _________________________________________________________
 _________________________________________________________ 
 
 - ❣️ Meu nome é Ruth, tenho 27 anos.
-- Residente da cidade de Praia Grande, SP
+- 🌆 Residente da cidade de Praia Grande, SP
+- 💬 Sou criativa, determinada e entusiasta.
+- 🌱 Estudo no momento: Kotlin💚 e Python🧡
+- 🚀 Habilidades futuras: Java e JavaScript, Php e Html/CSS
+- 🚀 Habilidades futuras: Java e JavaScript, Php e Html/CSS
 
-Sou criativa, determinada e entusiasta.
+
 - 🌱 Estudo no momento: Kotlin💚 e Python🧡
 - 🚀 Habilidades futuras: Java e JavaScript, Php e Html/CSS
 - 💬 Sou criativa, determinada e entusiasta.

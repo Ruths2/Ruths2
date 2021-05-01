@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+==================================================
+##                   **Ruth Freire ❣️**
+
+- 🌱 Estudo no momento: Kotlin💚 e Python🧡
+- 🚀 Habilidades futuras: Java e JavaScript, Php e Html/CSS
+- 💬 Sou criativa, determinada e entusiasta.
+
+=================================================
+
+=================================================

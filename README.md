@@ -23,7 +23,8 @@ _________________________________________________________
 - ❣️ Meu nome é Ruth, tenho 28 anos.
 - 🌆 Residente da cidade de Praia Grande, SP
 - 💬 Sou criativa, determinada e entusiasta.
-- 🌱 Estudo no momento: Java🖤 Kotlin💚 e Python🧡 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+- 🌱 Estudo no momento: Java<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> Kotlin <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"> e Python<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"> 
+      
 - 🚀 Habilidades futuras: JavaScript, Php e Html/CSS
 
 ===================================================================================

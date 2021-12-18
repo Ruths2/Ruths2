@@ -12,8 +12,17 @@ _________________________________________________________
       
 - 🚀 Habilidades futuras: JavaScript, Php e Html/CSS
 
+#
 
-### Me encontre:
+<a href="https:https://github.com/Ruths2/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruths2&theme=panda&show_icons=true" />
+
+<a href="https:https://github.com/Ruths2/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruths2&layout=compact&theme=panda&custom_title=Estou aprendendo" />
+
+#
+
+### Entre em contato:
 
 <a href="https://www.linkedin.com/in/ruth-freire-a15325208"><img height="30" src="https://i.ibb.co/xSTPRYR/1489186511-social-media-web-linkedin-81791.png" alt="1489186511-social-media-web-linkedin-81791" border="0" /></a>
 <a href="mailto:ruth09@yahoo.com"><img height="30" src="https://i.ibb.co/qpZxzrX/1489186517-social-media-web-gmail-81788-1.png" alt="1489186517-social-media-web-gmail-81788-1" border="0" /></a>

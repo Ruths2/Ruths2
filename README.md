@@ -5,8 +5,8 @@
 
 </div align="center">
   <a href="https:https://github.com/Ruths2/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruths2&theme=panda&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruths2&layout=compact&theme=panda" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ruths2&theme=panda&show_icons=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruths2&layout=compact&theme=panda" />
 </div>
 
 #

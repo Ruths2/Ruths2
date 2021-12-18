@@ -1,24 +1,28 @@
+ 
+<a href="https://ibb.co/HC151Wy"><img align="center" src="https://i.ibb.co/1MhFhDN/Logo-Maker-com-ist-logomaker-Sat-Dec-18-09-21-20-GMT-03-00-2021.png" alt="Logo-Maker-com-ist-logomaker-Sat-Dec-18-09-21-20-GMT-03-00-2021" border="0" /></a>
 
-_________________________________________________________ 
 
-## **Ruth Freire ❣️**                    
+🔸 Meu nome é Ruth, tenho 28 anos.
 
-_________________________________________________________ 
+🔸 🌆 Residente da cidade de Praia Grande, SP
 
-- ❣️ Meu nome é Ruth, tenho 28 anos.
-- 🌆 Residente da cidade de Praia Grande, SP
-- 💬 Sou criativa, determinada e entusiasta.
-- 🌱 Estudo no momento: Java<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> Kotlin <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"> e Python<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"> 
+🔸 💬 Sou criativa, determinada e entusiasta.
+
+🔸 🌱 Estudo no momento: 
+
+Java<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> Kotlin <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"> e Python<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"> 
       
-- 🚀 Habilidades futuras: JavaScript, Php e Html/CSS
+🔸 🚀 Habilidades futuras: 
+JavaScript, Php e Html/CSS 
+
+
+
 
 #
 
 <a href="https:https://github.com/Ruths2/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruths2&theme=panda&show_icons=true" />
-
-<a href="https:https://github.com/Ruths2/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruths2&layout=compact&theme=panda&custom_title=Estou aprendendo" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=Ruths2&theme=panda&show_icons=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruths2&layout=compact&theme=panda" />
 
 #
 

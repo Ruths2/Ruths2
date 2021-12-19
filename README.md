@@ -11,12 +11,12 @@
 
 #
 
-#### 💠 Entre em contato:
+### 💠 Entre em contato:
 <div align="center">
   <a href="https://www.linkedin.com/in/ruth-freire-a15325208">
-    <img height="30" src="https://i.ibb.co/xSTPRYR/1489186511-social-media-web-linkedin-81791.png" alt="1489186511-social-media-web-linkedin-81791" border="0" /></a>
+    <img height="40" src="https://i.ibb.co/xSTPRYR/1489186511-social-media-web-linkedin-81791.png" alt="1489186511-social-media-web-linkedin-81791" border="0" /></a>
   <a href="mailto:ruth09@yahoo.com">
-    <img height="30" src="https://i.ibb.co/qpZxzrX/1489186517-social-media-web-gmail-81788-1.png" alt="1489186517-social-media-web-gmail-81788-1" border="0" /></a>
+    <img height="40" src="https://i.ibb.co/qpZxzrX/1489186517-social-media-web-gmail-81788-1.png" alt="1489186517-social-media-web-gmail-81788-1" border="0" /></a>
   <a href="https://api.whatsapp.com/send?phone=5513988672041">
-    <img height="30" src="https://i.ibb.co/pbs5dvh/1489186508-social-media-web-whatsapp-81782-1.png" alt="1489186508-social-media-web-whatsapp-81782-1" border="0" /></a>
+    <img height="40" src="https://i.ibb.co/pbs5dvh/1489186508-social-media-web-whatsapp-81782-1.png" alt="1489186508-social-media-web-whatsapp-81782-1" border="0" /></a>
 </div>

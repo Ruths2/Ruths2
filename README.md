@@ -1,7 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%23FF574D&size=40&multiline=true&width=500&height=100&lines=%E2%9C%A8+Feliz+natal+%F0%9F%8E%84+...;....+e+um+pr%C3%B3spero+ano+novo+%F0%9F%8E%86%F0%9F%8E%87)](https://git.io/typing-svg)
-
-
 <div align= "center">
   <a href="https://ibb.co/pjFJGQ6">
     <img src="https://i.ibb.co/60CgV8c/Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021.png" alt="Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021" border="0" /></a>

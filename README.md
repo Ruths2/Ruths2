@@ -1,7 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%23CFB5F7&size=40&width=470&height=70&lines=Feliz+natal+%F0%9F%8E%84+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%23CFB5F7&size=40&width=520&height=70&lines=%E2%9C%A8+Feliz+natal+%F0%9F%8E%84+.+.+.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%23CFB5F7&size=40&width=470&height=70&lines=..+e+um+pr%C3%B3spero+ano+novo+%F0%9F%8E%87%F0%9F%8E%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%23CFB5F7&size=40&width=540&height=80&lines=.+.+.+.+.+e+um+pr%C3%B3spero+ano+novo+%F0%9F%8E%87%F0%9F%8E%86)](https://git.io/typing-svg)
 
 
 <div align= "center">

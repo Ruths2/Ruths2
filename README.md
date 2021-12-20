@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%23FF574D&size=40&multiline=true&width=500&height=100&lines=%E2%9C%A8+Feliz+natal+%F0%9F%8E%84+...;....+e+um+pr%C3%B3spero+ano+novo+%F0%9F%8E%86%F0%9F%8E%87)](https://git.io/typing-svg)
 
+
 <div align= "center">
   <a href="https://ibb.co/pjFJGQ6">
     <img src="https://i.ibb.co/60CgV8c/Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021.png" alt="Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021" border="0" /></a>
@@ -22,4 +23,6 @@
     <img height="40" src="https://i.ibb.co/qpZxzrX/1489186517-social-media-web-gmail-81788-1.png" alt="1489186517-social-media-web-gmail-81788-1" border="0" /></a>
   <a href="https://api.whatsapp.com/send?phone=5513988672041">
     <img height="40" src="https://i.ibb.co/pbs5dvh/1489186508-social-media-web-whatsapp-81782-1.png" alt="1489186508-social-media-web-whatsapp-81782-1" border="0" /></a>
+  <a href="https://ibb.co/rGhdBq3">
+    <img height="350" src="https://i.ibb.co/1fNzCBM/1640025007277-png.png" alt="1640025007277-png" border="0" /></a>
 </div>

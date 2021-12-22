@@ -22,6 +22,6 @@
 </div>  
 
 <div align="center">
-  <a href="https://ibb.co/rGhdBq3">
-    <img height="350" src="https://i.ibb.co/1fNzCBM/1640025007277-png.png" alt="1640025007277-png" border="0" /></a>
+  <a href="https://imgbb.com/">
+    <img height="200" src="https://i.ibb.co/9TxVfRM/d26ad794dc443edef5034bf02af77c087d27307d15c5dd57f90b4bb60edf2a40-0.png" alt="d26ad794dc443edef5034bf02af77c087d27307d15c5dd57f90b4bb60edf2a40-0" border="0" /></a>
 </div>

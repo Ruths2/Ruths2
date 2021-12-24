@@ -1,7 +1,7 @@
 
 <div align= "center">
   <a href="https://ibb.co/pjFJGQ6">
-    <img src="https://i.ibb.co/60CgV8c/Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021.png" alt="Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021" border="0" /></a>
+    <img src="https://i.ibb.co/TM3mp1D/Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021.png" alt="Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021" border="0"></a>
 </div>
 
 <div align= "center">

@@ -1,16 +1,22 @@
+<div align= "center">
+
+<a href="https://ibb.co/2KNrwM0">
+  <img height= "280" src="https://i.ibb.co/6sBS2tc/Logo-Maker-com-ist-logomaker-Wed-Dec-29-13-27-10-GMT-03-00-2021-2.jpg" alt="Logo-Maker-com-ist-logomaker-Wed-Dec-29-13-27-10-GMT-03-00-2021-2" border="0" /></a>
+</div>
 
 <div align= "center">
   <a href="https://ibb.co/pjFJGQ6">
-    <img src="https://i.ibb.co/TM3mp1D/Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021.png" alt="Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021" border="0"></a>
+    <img height= "500" src="https://i.ibb.co/TM3mp1D/Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021.png" alt="Logo-Maker-com-ist-logomaker-Sat-Dec-18-16-20-32-GMT-03-00-2021" border="0"></a>
 </div>
 
 <div align= "center">
   <a href="https:https://github.com/Ruths2/github-readme-stats">
     <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Ruths2&theme=panda&show_icons=true" />
     <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruths2&layout=compact&theme=panda" />
-</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2359C8A9&center=true&vCenter=true&width=570&lines=%F0%9F%92%A0+Se+precisar,+entre+em+contato+comigo+%F0%9F%92%A0;%E2%9D%A4%EF%B8%8F+Obrigado+e+volte+sempre+%F0%9F%91%A3)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ruth-freire-a15325208">
